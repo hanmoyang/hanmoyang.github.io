@@ -25,9 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-中国人民大学人口与健康学院讲师。北京大学经济学博士，曾在哈佛大学、斯坦福大学从事博士后研究。研究方向为人口与健康经济学，主要聚焦生育、老龄、医疗卫生体制等政策议题。研究主要利用经济学和人口学的方法，以政策导向的理论与实证分析为基础，重点探讨各类干预如何影响个体行为和选择，以及其对健康、人口和社会经济结果的广泛影响。
+
+2022年于[北京大学](https://www.pku.edu.cn/)[国家发展研究院](https://www.nsd.pku.edu.cn/)取得经济学博士学位。曾先后于[哈佛大学陈曾熙公共卫生学院](https://www.hsph.harvard.edu/)和[斯坦福大学商学院](https://www.gsb.stanford.edu/)担任博士后研究员。研究方向为人口与健康经济学，主要聚焦生育、老龄、医疗卫生体制等政策议题。研究主要利用经济学和人口学的方法，以政策导向的理论与实证分析为基础，重点探讨各类干预如何影响个体行为和选择，以及其对健康、人口和社会经济结果的广泛影响。研究论文发表于International Economic Review、The Lancet Public Health、JAMA Health Forum、The Gerontologist、《人口研究》、《经济评论》等高水平期刊。
+
 
 ---
+
 
 I am currently an assistant professor at [Renmin University of China](https://www.ruc.edu.cn/), School of Population and Health.
 
