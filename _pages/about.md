@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: 主页/About
+title: 主页/About
 permalink: /
 subtitle: Assistant Professor, School of Population and Health, Renmin University of China
 
