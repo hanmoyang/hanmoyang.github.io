@@ -2,14 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Renmin University of China
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- Population Statistics (master)
+- Western Economics (master)
+- Population Economics (undergraduate)
+- Social Science Research Methods (undergraduate)
 
-{% include courses.liquid %}
+## University of the Chinese Academy of Social Sciences
+
+- Academic Norms and Thesis Writing (in English, for Ph.D. candidates), Huangpu Institute for Advanced Study, Summer 2022-2024
+
+## Peking University (Teaching Assistant)
+
+- Public Policy: Microeconomics (in English, for Ph.D. candidates), Institute of South-South Cooperation and Development. Instructor: Prof. [Xiaoyan Lei](https://en.nsd.pku.edu.cn/faculty/fulltime/l/239420.htm), Fall 2021
+- China in Transition (in English, for master's students), Yenching Academy. Instructor: Prof. [Xiaoyan Lei](https://en.nsd.pku.edu.cn/faculty/fulltime/l/239420.htm), Spring 2021
+- Introduction to Economic Growth (in English, for undergraduates), National School of Development. Instructor: Prof. [Gordon Guoen Liu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/L_fe5100f8d50a4875a92ad8991380a172/Gordonliu/index.blk.htm), Spring 2020, Spring 2021
