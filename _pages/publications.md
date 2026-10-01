@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 ## Publications
-
+<small>* 通讯作者 / Corresponding author　† 共同第一作者 / Equal contribution</small>
 <div class="publications">
 {% bibliography %}
 </div>
