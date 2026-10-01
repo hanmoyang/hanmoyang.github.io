@@ -232,3 +232,16 @@ body {
   font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
   font-weight: 400;
 }
+
+/* 首页：正文固定在左栏，不绕照片 */
+@media (min-width: 576px) {
+  .post article > .clearfix {
+    margin-right: calc(30% + 1.5rem);
+  }
+}
+
+/* 照片下方邮箱改用正常字体并居中 */
+.profile .more-info {
+  font-family: inherit;
+  text-align: center;
+}
