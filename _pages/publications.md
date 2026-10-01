@@ -12,8 +12,11 @@ nav_order: 2
 <span style="color: gray;">* 通讯作者 / Corresponding author　† 共同第一作者 / Equal contribution</span>
 
 <div class="publications">
+{% bibliography %}
+</div>
 
 ---
+
 ## 工作论文/Working Papers
 
 Second Chance, Second Child? Renegotiation over Childbirth, Marriage, and Intrahousehold Reallocation  
