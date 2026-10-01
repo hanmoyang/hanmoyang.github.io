@@ -206,3 +206,23 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+/* 章节标题缩小 */
+article h2 {
+  font-size: 1.35rem;
+  font-weight: 500;
+  margin-top: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+/* 正文放大、加行距 */
+article p,
+article li {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+/* 列表条目之间加间距 */
+article li {
+  margin-bottom: 0.7rem;
+}
