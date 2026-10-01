@@ -2,7 +2,7 @@
 layout: 主页/About
 title: 主页/About
 permalink: /
-subtitle: Assistant Professor, School of Population and Health, Renmin University of China
+subtitle: 中国人民大学人口与健康学院讲师 / Assistant Professor, School of Population and Health, Renmin University of China
 
 profile:
   align: right
