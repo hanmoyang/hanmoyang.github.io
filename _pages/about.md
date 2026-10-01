@@ -2,16 +2,20 @@
 layout: about
 title: 主页/About
 permalink: /
-subtitle: 中国人民大学人口与健康学院讲师 / Assistant Professor, School of Population and Health, Renmin University of China
+subtitle: 中国人民大学人口与健康学院讲师 
+Assistant Professor, School of Population and Health, Renmin University of China
 
 profile:
   align: right
   image: hanmo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>hanmoyangpku(at)gmail.com</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+  more_info: >
+    <p><i class="fa-solid fa-envelope"></i> hanmoyangpku(at)gmail.com</p>
+    <p><i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=kgvIbQ8AAAAJ&hl=en">Google Scholar</a></p>
+
+
+selected_papers: false # includes a list of papers marked as "selected={true}
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -26,7 +30,11 @@ latest_posts:
 ---
 
 
-2022年于[北京大学](https://www.pku.edu.cn/)[国家发展研究院](https://www.nsd.pku.edu.cn/)取得经济学博士学位。曾先后于[哈佛大学陈曾熙公共卫生学院](https://www.hsph.harvard.edu/)和[斯坦福大学商学院](https://www.gsb.stanford.edu/)担任博士后研究员。研究方向为人口与健康经济学，主要聚焦生育、老龄、医疗卫生体制等政策议题。研究主要利用经济学和人口学的方法，以政策导向的理论与实证分析为基础，重点探讨各类干预如何影响个体行为和选择，以及其对健康、人口和社会经济结果的广泛影响。研究论文发表于International Economic Review、The Lancet Public Health、JAMA Health Forum、The Gerontologist、《人口研究》、《经济评论》等高水平期刊。
+2022年于[北京大学](https://www.pku.edu.cn/)[国家发展研究院](https://www.nsd.pku.edu.cn/)取得经济学博士学位。曾先后于[哈佛大学陈曾熙公共卫生学院](https://www.hsph.harvard.edu/)和[斯坦福大学商学院](https://www.gsb.stanford.edu/)担任博士后研究员。
+
+研究方向为人口与健康经济学，主要聚焦生育、老龄、医疗卫生体制等政策议题。研究主要利用经济学和人口学的方法，以政策导向的理论与实证分析为基础，重点探讨各类干预如何影响个体行为和选择，以及其对健康、人口和社会经济结果的广泛影响。
+
+研究论文发表于International Economic Review、The Lancet Public Health、JAMA Health Forum、The Gerontologist、《人口研究》、《经济评论》等高水平期刊。
 
 
 ---
