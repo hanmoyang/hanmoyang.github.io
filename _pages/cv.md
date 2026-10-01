@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /cv/
-title: cv
+permalink: /简历 / CV/
+title: 简历 / CV
 nav: true
 nav_order: 3
 ---
