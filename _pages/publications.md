@@ -1,19 +1,20 @@
 ---
 layout: page
 permalink: /publications/
-title: research
+title: 研究/Research
 description:
 nav: true
 nav_order: 2
 ---
 
-## Publications
-<small>* 通讯作者 / Corresponding author　† 共同第一作者 / Equal contribution</small>
-<div class="publications">
-{% bibliography %}
-</div>
+## 部分期刊发表/Selected Publications
 
-## Working Papers
+<span style="color: gray;">* 通讯作者 / Corresponding author　† 共同第一作者 / Equal contribution</span>
+
+<div class="publications">
+
+---
+## 工作论文/Working Papers
 
 Second Chance, Second Child? Renegotiation over Childbirth, Marriage, and Intrahousehold Reallocation  
 with [Lin Lin](http://slhr.ruc.edu.cn/En/Teacher_Home/LIN_Lin/index.htm), [Junjian Yi](https://sites.google.com/view/junjianyi), and [Hanyu Zhu](https://www.hanyu-zhu.com/), Under Review
