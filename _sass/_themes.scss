@@ -226,3 +226,9 @@ article li {
 article li {
   margin-bottom: 0.7rem;
 }
+
+/* 正文字体加粗，改用系统字体（国内加载更稳定） */
+body {
+  font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-weight: 400;
+}
