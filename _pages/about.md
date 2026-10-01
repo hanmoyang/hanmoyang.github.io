@@ -6,7 +6,7 @@ subtitle: Assistant Professor, School of Population and Health, Renmin Universit
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hanmo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>hanmoyangpku(at)gmail.com</p>
