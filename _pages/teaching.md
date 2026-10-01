@@ -8,7 +8,7 @@ nav_order: 4
 
 ## 中国人民大学 / Renmin University of China
 
-- 人口统计学（硕士）/ Population Statistics (Master's)
+- 人口分析技术（硕士）/ Population Statistics (Master's)
 - 西方经济学（硕士）/ Western Economics (Master's)
 - 人口经济学（本科）/ Population Economics (Undergraduate)
 - 社会科学研究方法（本科）/ Social Science Research Methods (Undergraduate)
