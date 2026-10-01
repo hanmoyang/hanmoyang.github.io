@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /教学 / Teaching/
+title: 教学 / Teaching
 nav: true
 nav_order: 4
 ---
