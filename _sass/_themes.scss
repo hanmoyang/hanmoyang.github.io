@@ -245,3 +245,10 @@ body {
   font-family: inherit;
   text-align: center;
 }
+
+/* 主页副标题：与名字、正文之间留出空间，行距加大 */
+.post-header .desc {
+  margin-top: 0.8rem;
+  margin-bottom: 1.8rem;
+  line-height: 1.7;
+}
